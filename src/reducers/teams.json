@@ -1,0 +1,122 @@
+[
+  {
+    "org": "Counter Logic Gaming",
+    "logo": "https://pbs.twimg.com/profile_images/952431593020207104/ty1X8gYr_400x400.jpg",
+    "region": "NA",
+    "adc": "tba",
+    "support": "tba",
+    "mid": "tba",
+    "jungle": "tba",
+    "solo": "tba"
+  },
+  {
+    "org": "eUnited",
+    "logo": "https://pbs.twimg.com/profile_images/953847528176287744/3mI2qGJ7_400x400.jpg",
+    "region": "NA",
+    "adc": "Pandacat",
+    "support": "PolarBearMike",
+    "mid": "Venenu",
+    "jungle": "Scream",
+    "solo": "Benji"
+  },
+  {
+    "org": "Luminosity",
+    "logo": "https://pbs.twimg.com/profile_images/876865606053543936/3ML_fQJ9.jpg",
+    "region": "NA",
+    "adc": "tba",
+    "support": "tba",
+    "mid": "tba",
+    "jungle": "tba",
+    "solo": "tba"
+  },
+  {
+    "org": "Mousesports",
+    "logo": "https://pbs.twimg.com/profile_images/474185833843408896/zZeheOND_400x400.png",
+    "region": "EU",
+    "adc": "tba",
+    "support": "tba",
+    "mid": "tba",
+    "jungle": "tba",
+    "solo": "tba"
+  },
+  {
+    "org": "NRG",
+    "logo": "https://pbs.twimg.com/profile_images/942609834200858624/tXXZkE74_400x400.jpg",
+    "region": "EU",
+    "adc": "Emilitoo",
+    "support": "iRaffer",
+    "mid": "Yammyn",
+    "jungle": "Adapting",
+    "solo": "ManiaKK"
+  },
+  {
+    "org": "Obey Alliance",
+    "logo": "https://pbs.twimg.com/profile_images/947994671854309377/mB7VnsY7_400x400.jpg",
+    "region": "EU",
+    "adc": "Ataraxia",
+    "support": "tba",
+    "mid": "PrettyPrime",
+    "jungle": "CaptainTwig",
+    "solo": "Xaliea"
+  },
+  {
+    "org": "Rival",
+    "logo": "https://pbs.twimg.com/profile_images/850066322998398976/M2RmzUnF_400x400.jpg",
+    "region": "EU",
+    "adc": "Vote",
+    "support": "Kalas",
+    "mid": "Wlfy",
+    "jungle": "IceIceBaby",
+    "solo": "Deathwalker"
+  },
+  {
+    "org": "SK Gaming",
+    "logo": "https://pbs.twimg.com/profile_images/2455271391/697v5pz4c9rvyvmw8hx4_400x400.gif",
+    "region": "EU",
+    "adc": "tba",
+    "support": "tba",
+    "mid": "tba",
+    "jungle": "tba",
+    "solo": "tba"
+  },
+  {
+    "org": "Spacestation Gaming",
+    "logo": "https://pbs.twimg.com/profile_images/941373828235542528/kn5WPG2r_400x400.jpg",
+    "region": "NA",
+    "adc": "BaRRaCCuDDa",
+    "support": "JeffHindla",
+    "mid": "Baskin",
+    "jungle": "Andinster",
+    "solo": "Aquarius"
+  },
+  {
+    "org": "Splyce",
+    "region": "NA",
+    "logo": "https://pbs.twimg.com/profile_images/950319881987198976/sBglSIsE_400x400.jpg",
+    "adc": "Cyclonespin",
+    "support": "Aror",
+    "mid": "TheBest",
+    "jungle": "Yujiiii",
+    "solo": "Divios"
+  },
+  {
+    "org": "Team Dignitas",
+    "region": "EU",
+    "logo": "https://pbs.twimg.com/profile_images/940342632441462786/Uzqtrs3w_400x400.jpg",
+    "adc": "Arkkyl",
+    "support": "Trixtank",
+    "mid": "Zyrhoes",
+    "jungle": "QvoFred",
+    "solo": "Variety"
+  },
+  {
+    "org": "Trifecta",
+    "region": "NA",
+    "logo": "https://pbs.twimg.com/profile_images/950570713466875905/C3cXqw2v_400x400.jpg",
+    "adc": "Zapman",
+    "support": "Neirumah",
+    "mid": "Metyankey",
+    "jungle": "Mask",
+    "solo": "ScaryD"
+  }
+]
